@@ -1,0 +1,4 @@
+Enter amount: 500.0
+convert from: USD
+convert to: CNY
+résultat: 3406.7820392890553
